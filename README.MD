@@ -1,0 +1,1 @@
+project template for springboot docker with intellij
